@@ -14,3 +14,6 @@ First repository
 ## Some explanation
 Here comes some explanation text.
 And here is more text. Some more usefull text.
+
+# Hello World App Angular
+for developing HW Angular app run: ng serve --open
