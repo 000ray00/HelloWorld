@@ -13,4 +13,4 @@ First repository
 
 ## Some explanation
 Here comes some explanation text.
-And here is more text.
+And here is more text. Some more usefull text.
